@@ -1,0 +1,58 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    align-content: center;
+    margin-left: 12%;
+    color: white;
+    text-align: center;
+    padding: 4% 4% 4% 4%;
+    flex-wrap: wrap;
+}
+
+
+.card {
+    background-color: #1e1e1e;
+    width: 300px;
+    min-height: 300px;
+    /* align-items: center; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 25px;
+    border-radius: 9px;
+    padding: 3px;
+}
+
+.container h3 {
+    width: 100%;
+    text-align: left;
+    font-family: "Montserrat", sans-serif;
+    font-size: 25px;
+}
+
+button a {
+    color: white;
+}
+
+button {
+    margin: 5px;
+    background-color: #4e4e4e;
+    color: white;
+    border: 1px solid white;
+    cursor: pointer;
+    padding: 4px;
+    font-family: "Montserrat", sans-serif;
+}
+
+
+
+
+
+@media (max-width:650px) {
+    .container {
+        margin-left: 0;
+    }
+}

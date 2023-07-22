@@ -1,0 +1,108 @@
+.flex-box-container-5 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 12%;
+    padding: 4% 4% 4% 4%;
+    margin-top: 10px;
+    color: white;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+.flex-box-container-5 p {
+    font-size: 18px;
+    font-family: "Montserrat", sans-serif;
+}
+
+
+.flex-box-container-5 form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    flex-wrap: nowrap;
+
+
+}
+
+.flex-box-container-5 form label {
+    padding: 10px
+}
+
+
+.flex-box-container-5 form input {
+    padding: 13px;
+    width: 100%;
+    margin: 0;
+
+}
+
+.flex-box-container-5 form button {
+    width: 193px;
+    padding: 13px;
+    margin-left: 1%;
+    border: none;
+}
+
+.flex-box-container-5 form button:hover {
+
+    background-color: white;
+    color: black;
+
+}
+
+button a:hover
+{
+    color: black;
+}
+
+.flex-box-container-5 form textarea {
+    width: 99%;
+    padding: 20px;
+}
+
+@media (max-width:650px) {
+    .flex-box-container-5 {
+
+        margin-left: 0;
+
+        padding: 4% 4% 4% 4%;
+
+    }
+}
+
+
+.flex-box-container-6 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 12%;
+    padding: 6vw;
+    color: white;
+    flex-wrap: nowrap;
+}
+
+.flex-box-container-6 div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+
+}
+
+.flex-box-container-6 div i {
+    margin: 4px;
+    color: #4e4e4e;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.flex-box-container-6 p {
+    color: #4e4e4e;
+}
+
+@media (max-width:650px) {
+    .flex-box-container-6 {
+
+        margin-left: 0;
+        padding: 6vw;
+
+    }
+}

@@ -1,0 +1,50 @@
+.flex-box-container-3 {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    align-content: center;
+    margin-left: 12%;
+    font-family: 'Mulish', sans-serif;
+    padding: 6% 4% 0 4%;
+
+    flex-wrap: wrap;
+}
+
+.flex-box-container-3 h3 {
+    width: 100%;
+    text-align: left;
+    font-family: "Montserrat", sans-serif;
+    font-size: 25px;
+}
+
+.flex-box-container-3 p {
+    font-size: 20px;
+    color: #ffffff87;
+}
+
+.flex-box-container-3 .progress {
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    padding: 0px;
+}
+
+.flex-box-container-3-1 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.flex-box-container-3-1>div {
+    width: 45%;
+}
+
+@media (max-width:650px)
+{
+    .flex-box-container-3
+    {
+        margin-left: 0%;
+    }
+}
