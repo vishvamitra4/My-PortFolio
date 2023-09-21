@@ -20,7 +20,7 @@ function Contact() {
                 <textarea name="message"></textarea>
             </label>
             <button type="submit">Send</button>
-            <button><a href = "https://docs.google.com/document/d/10H7S6bJ3leguzoYVyP7lk_45gRktn6GOxVixU2xovR8/edit?usp=sharing" target="_blank">Download Resume</a></button>
+            <button><a href = "https://docs.google.com/document/d/1LKwPoLmO7usOJYv3HeMaliHop_2q9CGsEhUyw93PjAQ/edit?usp=sharing" target="_blank">Download Resume</a></button>
         </form>
     );
 }

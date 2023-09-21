@@ -1,5 +1,4 @@
 import React from "react";
-import { ReactDOM } from "react-dom/client";
 import "./css_file/cp.css";
 
 function Cp() {
@@ -20,32 +19,32 @@ function Cp() {
                         <td>1.</td>
                         <td>Leetcode</td>
                         <td><a href="https://leetcode.com/vishvamitra73/" target="_blank">vishvamitra73</a></td>
-                        <td>264</td>
-                        <td>1500</td>
+                        <td>500+</td>
+                        <td>1700+</td>
                     </tr>
 
                     <tr>
                         <td>2.</td>
                         <td>GeeksForGeeks</td>
                         <td><a href="https://auth.geeksforgeeks.org/user/vishvamitrakumarsingh/practice" target="_blank">@vishvamitra</a></td>
-                        <td>205</td>
-                        <td>479score</td>
+                        <td>400+</td>
+                        <td>700+ score</td>
                     </tr>
 
                     <tr>
                         <td>3.</td>
                         <td>CodeForces</td>
                         <td><a href="https://codeforces.com/profile/vishvamitra4" target="_blank">vishvamitra4</a></td>
-                        <td>80</td>
-                        <td>1071</td>
+                        <td>200+</td>
+                        <td>1300+</td>
                     </tr>
 
                     <tr>
                         <td>4.</td>
                         <td>CodeChef</td>
                         <td><a href="https://www.codechef.com/users/vishvamitra4" target="_blank">vishvamitra4</a></td>
-                        <td>50</td>
-                        <td>1667</td>
+                        <td>100+</td>
+                        <td>3⭐</td>
                     </tr>
 
                     <tr>

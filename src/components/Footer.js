@@ -1,5 +1,4 @@
 import React from "react";
-import { ReactDOM } from "react-dom/client";
 import "./css_file/footer.css";
 import Contact from "./Contact";
 function Footer() {

@@ -1,5 +1,4 @@
 import React from "react";
-import ReactDOM from "react-dom/client"
 import "./css_file/skill.css"
 import AllSkills from "../Data"
 

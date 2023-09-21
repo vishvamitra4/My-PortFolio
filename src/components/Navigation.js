@@ -16,7 +16,7 @@ function Navigation() {
                 <p>ABOUT</p>
             </a>
             <a href="#skill"><i className="fa fa-user w3-xxlarge"></i>
-                <p>SKILL</p>
+                <p>SKILLS</p>
             </a>
             <a href="#project"><i className="fa fa-eye w3-xxlarge"></i>
                 <p>PROJECTS</p>
